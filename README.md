@@ -20,7 +20,7 @@ Each delivery executive is scored weekly using a custom business formula:
 
 score = 0.4 × total_orders + 0.3 × order_value + 0.3 × (average_rating × 20)
 ## 📂 Repository Structure
-# ├── swiggy_data_generation.py # Python script to generate synthetic delivery data
-# ├── swiggy_analysis_queries.sql # SQL views and ranking logic using PostgreSQL
-# ├── Swiggy_Dashboard_Himanshu.xlsx # Final Excel dashboard with dropdown and chart
-# ├── Swiggy_CaseStudy_Summary_Himanshu.pdf # 1-page summary of approach and methodology
+├── swiggy_data_generation.py # Python script to generate synthetic delivery data.
+├── swiggy_analysis_queries.sql # SQL views and ranking logic using PostgreSQL.
+├── Swiggy_Dashboard_Himanshu.xlsx # Final Excel dashboard with dropdown and chart.
+├── Swiggy_CaseStudy_Summary_Himanshu.pdf # 1-page summary of approach and methodology.
