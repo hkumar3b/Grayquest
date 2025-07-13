@@ -1,4 +1,4 @@
-# Swiggy Business Analyst Case Study – Himanshu Kumar
+# Swiggy Business Analyst Case Study 
 
 ## 📌 Problem Statement
 
